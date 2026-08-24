@@ -1,3 +1,4 @@
+Link langsmith nộp bài https://smith.langchain.com/o/4cc16709-16a6-4a0c-8d14-04049e9c4dbc/projects/p/cec83bea-8a61-49c1-81da-2685437400b5?timeModel=%7B%22duration%22%3A%221d%22%7D
 # Chào mừng các bạn đến với Day 22: LangSmith + Prompt Versioning
 
 ## Tổng quan
